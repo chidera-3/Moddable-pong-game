@@ -41,7 +41,7 @@ linear_velocity = Vector2(353.553, 353.553)
 tint = Color(0.921569, 0.737255, 0.741176, 1)
 
 [node name="GameLogic" parent="." instance=ExtResource("3_umelw")]
-ball_velocity_multiplier = 1.3
+ball_velocity_multiplier = 1.2
 
 [node name="HUD" parent="." instance=ExtResource("4_4868o")]
 font = SubResource("SystemFont_24cl0")
